@@ -12,7 +12,7 @@ nav a {
 }
 
 figcaption {
-  font-size: 0.8em;
+  font-size: .9em;
 }
 
 #featured-property p {
@@ -23,16 +23,15 @@ figcaption {
   text-align: center;
   margin: 0 auto;
   padding-top: .7em;
+  padding-bottom: .7em;
 }
 
 #details div {
   display: block;
   float: left;
-  margin: 0 7%;
-
+  width: 25%;
+  background-color: red;
 }
 
-body #details {
-  background: red;
-}
+
 
